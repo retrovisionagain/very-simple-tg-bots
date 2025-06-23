@@ -9,7 +9,7 @@ from aiogram.types import Message,ReplyKeyboardRemove
 import keyboards
 import asyncio
 
-bot = Bot('8025931005:AAEZGaU1OiM_DICkUoJ3zFx6HThWH7GtHDM')
+bot = Bot('forgot to add .env :)')
 dp = Dispatcher()
 
 lessons = ['Алгебра', 'Геометрия', 'Биология', 'География', 'Физика', 'История']
